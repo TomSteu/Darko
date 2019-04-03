@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Darko
+Comment=A dark flat theme based on Plano
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Darko
+MetacityTheme=Darko
+IconTheme=gnome
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
